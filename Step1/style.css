@@ -1,0 +1,19 @@
+/* 각 박스의 기본 스타일 */
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
+  border-radius: 10px;
+  height: 200px;
+}
+/* ===============================*/
+
+/* 전체 컨테이너 스타일을 완성해주세요 (.container, .box:nth-child 활용)*/
+.container {
+}
+/* ===============================*/
+
+/* 여기에 반응형 디자인을 해주세요 */
+
+/* ===============================*/
